@@ -13,3 +13,10 @@ h1{
     transform: translate(0%,190%);
     font-size: 40px;
 }
+img{
+    position: relative;
+}
+.img{
+    width: 50%;
+    float: left;
+}
